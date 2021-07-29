@@ -6,3 +6,4 @@ read -p "enter no b " b
 sum=$(( a+b ))
 
 echo $sum
+echo "hi from multiply"
